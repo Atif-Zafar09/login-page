@@ -13,6 +13,7 @@ body{
   background-size: cover;
   background-position: center ;
   background-repeat: no-repeat;
+ overflow-x: hidden;
 }
 @media (max-width:768px){
     body{
@@ -38,8 +39,8 @@ box-shadow: 0 0 10px rgba(0,0,0, 0.2);
 }
 @media (max-width: 768px) {
     .container {
-      width: 350px;
-     height:370px;
+      width: 300px;
+    
     }
   }
   
